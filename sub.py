@@ -4,5 +4,5 @@ Python code:
 def sub(a,b):
              return a - b
 
-return = add (5, 3)
+return = sub (5, 3)
 print ("Result:",result
